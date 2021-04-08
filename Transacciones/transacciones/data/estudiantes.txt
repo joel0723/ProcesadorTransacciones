@@ -1,0 +1,1 @@
+a:1:{i:2;O:10:"Estudiante":6:{s:2:"Id";s:1:"1";s:4:"Name";s:4:"joel";s:8:"Apellido";s:15:"grullon santana";s:9:"CarreraId";s:1:"1";s:7:"Materia";s:6:"IA, SE";s:5:"Check";N;}}
